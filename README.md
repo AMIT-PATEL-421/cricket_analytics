@@ -4,9 +4,7 @@
 popular and top most revenue generating league and due to fact that it’s viewership is increasing expo-
 nentially over the seasons, it has attracted the betting market. Bettors and bookies has incentives on
 each match bet and dynamic progression of this game ball by ball make felt the need of the machine
-learning to analyze the massive data so far generated in dynamic sense. This paper investigates ma-
-chine learning approach used to counter with the problem of prediction cricket match results based on
-past/historical data.
+learning to analyze the massive data so far generated in dynamic sense. It investigates machine learning approach used to counter with the problem of prediction cricket match results based on past/historical data.
 Various filter-based methods, including correlation-based feature selection and Information Gain,
 were used to collect features for the dataset. Predictive models were generated using machine learning
 algorithms such as Naive Bayes, Random Forest, K-Nearest Neighbour, and model trees. The models
